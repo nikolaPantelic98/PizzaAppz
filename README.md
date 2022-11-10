@@ -5,7 +5,7 @@
 ## Table of Contents
 
 * [Info](https://github.com/nikolaPantelic98/PizzaAppz#info)
-* [Some Images](
+* [Some Images](https://github.com/nikolaPantelic98/PizzaAppz/blob/main/README.md#some-images)
 
 ## Info
 
