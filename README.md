@@ -4,8 +4,8 @@
  
 ## Table of Contents
 
-* Info
-* Some Images
+* [Info](https://github.com/nikolaPantelic98/PizzaAppz#info)
+* [Some Images](
 
 ## Info
 
