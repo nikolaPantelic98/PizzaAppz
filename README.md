@@ -1,6 +1,7 @@
 # PizzaAppz
 
-* PizzaAppz is a full-stack web application that allows the customers to pick their favorite flavors of pizza from their favorite restaurant without paying a physical visit. Backend using Spring Boot and frontend using Thymeleaf. 
+* PizzaAppz is a full-stack web application that allows the customers to pick their favorite flavors of pizza from their favorite restaurant without paying a physical visit. 
+* Backend using Spring Boot and frontend using Thymeleaf. 
  
 ## Table of Contents
 
