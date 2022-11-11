@@ -6,7 +6,8 @@
 ## Table of Contents
 
 * [Info](https://github.com/nikolaPantelic98/PizzaAppz#info)
-* [Some Images](https://github.com/nikolaPantelic98/PizzaAppz/blob/main/README.md#some-images)
+* [Requirements](https://github.com/nikolaPantelic98/PizzaAppz#requirments)
+* [Some Images](https://github.com/nikolaPantelic98/PizzaAppz#some-images)
 
 ## Info
 
@@ -17,6 +18,11 @@
      * All Orders - Admin can review orders made by customers and further process customer requests.
 * Security in the application is done in Spring Security and all passwords are encrypted.
 * The final view to the user is provided by Thymeleaf, the JAVA library.
+
+## Requirements
+
+* [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/)
+* [Java IDE (IntelliJ Ultimate preferred)](https://www.jetbrains.com/idea/download/#section=windows)
 
 ## Some Images
 
