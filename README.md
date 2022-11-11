@@ -6,7 +6,7 @@
 ## Table of Contents
 
 * [Info](https://github.com/nikolaPantelic98/PizzaAppz#info)
-* [Requirements](https://github.com/nikolaPantelic98/PizzaAppz#requirments)
+* [Requirements](https://github.com/nikolaPantelic98/PizzaAppz#requirements)
 * [Some Images](https://github.com/nikolaPantelic98/PizzaAppz#some-images)
 
 ## Info
