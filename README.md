@@ -7,6 +7,7 @@
 
 * [Info](https://github.com/nikolaPantelic98/PizzaAppz#info)
 * [Requirements](https://github.com/nikolaPantelic98/PizzaAppz#requirements)
+* [Launching a web application step by step](https://github.com/nikolaPantelic98/PizzaAppz#launching-a-web-application-step-by-step)
 * [Some Images](https://github.com/nikolaPantelic98/PizzaAppz#some-images)
 
 ## Info
@@ -17,12 +18,27 @@
      * All Registered Users - Admin can register a new user and modify or delete an existing user. Admin can also assign the "Admin" role to the desired user;
      * All Orders - Admin can review orders made by customers and further process customer requests.
 * Security in the application is done in Spring Security and all passwords are encrypted.
+* The web application is connected to the MySQL database.
 * The final view to the user is provided by Thymeleaf, the JAVA library.
 
 ## Requirements
 
 * [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/)
 * [Java IDE (IntelliJ Ultimate preferred)](https://www.jetbrains.com/idea/download/#section=windows)
+* [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
+
+### Launching a web application step by step
+
+* Download JDK.
+* Download IntelliJ IDEA.
+* From the main menu, select **File | Project Structure | Project Settings | Project**.
+* If the necessary JDK is already defined in IntelliJ IDEA, select it from the **SDK** list.
+* If the JDK is installed on your computer, but not defined in the IDE, select **Add SDK | JDK**, and specify the path to the JDK home directory (for example,  **/Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk**).
+* Apply the changes and close the dialog.
+* Download MySQL Workbench.
+* Create new database - `CREATE database pizza_ordering_system;`
+* Run the application on localhost:8080
+
 
 ## Some Images
 
