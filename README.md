@@ -37,6 +37,7 @@
 * Apply the changes and close the dialog.
 * Download MySQL Workbench.
 * Create new database - `CREATE database pizza_ordering_system;`
+* Modify `application.properties` if needed - `spring.datasource.username` and `spring.datasource.password`
 * Run the application on localhost:8080
 
 
