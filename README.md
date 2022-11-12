@@ -12,7 +12,7 @@
 
 ## Info
 
-* There are two roles in the application: Customer and Admin. Anyone can register and then log in to the application. Role "Customer" will be automatically assigned to each new customer. Each customer can view the list of available pizzas, select the desired pizza, as well as the desired size of the particular pizza, and then order by entering their delivery information. 
+* The application contains two roles: Customer and Admin. Every user can register and then log in to the application. The role "Customer" will be automatically assigned to each new customer. Each user is redirected to the home page based on his role. Each customer can view the list of available pizzas, select the desired pizza, as well as the desired size of the particular pizza, and then order by entering their delivery information. 
 * Admin manages all data within the application, such as:
      * All Pizzas - Admin can add a new pizza for sale (picture, description, multiple sizes and price for each size), as well as modify and delete an existing one;
      * All Registered Users - Admin can register a new user and modify or delete an existing user. Admin can also assign the "Admin" role to the desired user;
@@ -37,8 +37,8 @@
 * Apply the changes and close the dialog.
 * Download MySQL Workbench.
 * Create new database - `CREATE database pizza_ordering_system;`
-* Modify `application.properties` if needed - `spring.datasource.username` and `spring.datasource.password`
-* Run the application on localhost:8080
+* Modify `application.properties` if needed - `spring.datasource.username` and `spring.datasource.password` with your username and password from MySQL Workbench.
+* Run the application on localhost:8080.
 
 
 ## Some Images
